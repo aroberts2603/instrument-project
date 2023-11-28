@@ -326,6 +326,22 @@
     [
       "cc59b727-2652-4091-b082-bd90d9e2c9b9",
       ""
+    ],
+    [
+      "013183fe-e359-4ef3-a1de-bc1ea9f60473",
+      "Power"
+    ],
+    [
+      "20c8b0b9-9ff7-4aa8-ba72-a9db714c1694",
+      "MCU"
+    ],
+    [
+      "4037eb4c-7afa-413e-a802-1ba4a5c7b48c",
+      "CODEC"
+    ],
+    [
+      "c50e1d62-acc0-473a-a94f-3c4e7e91b776",
+      "IO"
     ]
   ],
   "text_variables": {}

@@ -1,4 +1,9 @@
 (sym_lib_table
   (version 7)
   (lib (name "STM32")(type "KiCad")(uri "${KIPRJMOD}/KiCadModels/Symbols/STM32F103RET6TR.kicad_sym")(options "")(descr ""))
+  (lib (name "NAU8810YG")(type "KiCad")(uri "${KIPRJMOD}/KiCadModels/Symbols/NAU8810YG.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator")(type "KiCad")(uri "${KIPRJMOD}/KiCadModels/Symbols/SOT23-Regulator.kicad_sym")(options "")(descr ""))
+  (lib (name "USB")(type "KiCad")(uri "${KIPRJMOD}/KiCadModels/Symbols/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "Screens")(type "KiCad")(uri "${KIPRJMOD}/KiCadModels/Symbols/Screens.kicad_sym")(options "")(descr ""))
+  (lib (name "Amplifiers")(type "KiCad")(uri "${KIPRJMOD}/KiCadModels/Symbols/Amplifiers.kicad_sym")(options "")(descr ""))
 )
