@@ -104,6 +104,14 @@
   )
 
 
+  (text_box "TODO: add TVS diodes to the USB port? probably a good idea..."
+    (at 227.33 102.87 0) (size 22.86 10.16)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 62268461-3ff3-4ad8-9e67-6ae56abd0b7d)
+  )
+
   (text "Top Level" (at 15.24 25.4 0)
     (effects (font (face "Calibri") (size 7.62 7.62) (thickness 1.524) bold) (justify left bottom))
     (uuid d91ec8e9-fbc9-4474-b0f6-fd48437673e8)
